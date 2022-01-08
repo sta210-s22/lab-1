@@ -2,6 +2,7 @@
 title: "Lab 1 - Meet the toolkit"
 subtitle: "STA 210 - Spring 2022"
 author: "Add your name here"
+date: "Add the date here"
 format: pdf
 editor: visual
 ---
